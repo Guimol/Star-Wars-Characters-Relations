@@ -6,3 +6,5 @@ Data obtained from: [Star Wars Movie Scripts](https://www.kaggle.com/datasets/xv
 Works similar to the proposed idea:
 - [Analyzing Star Wars Movie Scripts](https://www.kaggle.com/code/xvivancos/analyzing-star-wars-movie-scripts/report)
 - [The Last of Us II: a sentiment analysis](https://www.kaggle.com/code/lazaro97/the-last-of-us-ii-a-sentiment-analysis#Sentiment-and-emotion-lexicons)
+## Possible libraries
+- [NRCLex](https://github.com/metalcorebear/NRCLex)
