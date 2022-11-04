@@ -51,7 +51,7 @@
 "50" "THREEPIO" "Oh. Well, Princess Leia is wondering about Master Luke. He  hasn't come back yet. She doesn't know where he is."
 "51" "HAN" "I don't know where he is."
 "52" "THREEPIO" "Nobody knows where he is."
-"53" "HAN" "What do you mean, \"nobody knows\"?"
+"53" "HAN" "What do you mean, "nobody knows"?"
 "54" "THREEPIO" "Well, uh, you see..."
 "55" "HAN" "Deck Officer. Deck Officer!"
 "56" "THREEPIO" "Excuse me, sir. Might I inqu-..."
