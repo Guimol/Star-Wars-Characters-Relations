@@ -552,7 +552,7 @@
 "551" "HAN" "Well, anything would be better than just hanging around waiting for them to pick us up..."
 "552" "LUKE" "Who do you think..."
 "553" "LUKE" "What is it?"
-"554" "THREEPIO" "I'm afraid I'm not quite sure, sir. He says \"I found her,\" and keepsrepeating, \"She's here.\""
+"554" "THREEPIO" "I'm afraid I'm not quite sure, sir. He says "I found her" and keepsrepeating, "She's here.""
 "555" "LUKE" "Well, who... who has he found?"
 "556" "THREEPIO" "Princess Leia."
 "557" "LUKE" "The princess?  She's here?"
